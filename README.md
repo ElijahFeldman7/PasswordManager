@@ -1,3 +1,4 @@
+<img src = "passwordmanager.png" alt = "Password Manager">
 # Secure Cloud-Synced Password Manager
 
 secure password manager built with Python and PyQt5. uses client-side encryption and Google Drive for free, cross-device synchronization.
