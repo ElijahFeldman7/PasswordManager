@@ -1,0 +1,18 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+/build/
+/dist/
+*.spec
+
+# User Data and Secrets - DO NOT COMMIT THESE
+/token.json
+/vault.dat
+/credentials.json
+
+# IDE / Editor specific
+.vscode/
+.idea/
